@@ -46,8 +46,5 @@
 
 ## Referências
 
-<p>Este firmware faz parte de um artigo que descreve detalhadamente o desenvolvimento e as aplicações deste sistema. O artigo pode ser acessado em <a href="INSERIR_LINK_DO_ARTIGO">INSERIR LINK DO ARTIGO</a>.</p>
+<p>Este firmware faz parte de um artigo que descreve detalhadamente o desenvolvimento e as aplicações deste sistema. O artigo pode ser acessado nos anais da Latinoaware2024, com o título de "Desenvolvimento do sistema de estabilização para um dispositivo de auxílio a deficientes visuais de baixo custo".</p>
 
-## Licença
-
-<p>Este projeto está licenciado sob a licença MIT - consulte o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
